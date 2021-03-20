@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JCR83
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learning python
+- 🌱 I’m currently learning python from scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
